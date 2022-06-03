@@ -1,6 +1,6 @@
 package com.codedifferently.primitives;
 
-public class Primitives {
+public class PrimitivesExample {
     /**
      * In the following main method, place the correct Primitive Data type in front of the
      * number so that it compiles

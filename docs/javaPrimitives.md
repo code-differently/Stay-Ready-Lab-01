@@ -17,7 +17,7 @@ There are eight primitive data types in Java:
 
 ## Exercise 
 
-Complete [Primatives.java](../src/main/java/com/codedifferently/primitives/Primitives.java)
+Complete [PrimativesExample.java](../src/main/java/com/codedifferently/primitives/PrimitivesExample.java)
 
 | Prev | TOC                 | Next                  |
 |------|---------------------|-----------------------|

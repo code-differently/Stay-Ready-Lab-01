@@ -38,6 +38,6 @@ class Car extends Vehicle {
 ```
 
 
-| Prev                  | TOC                 | Next                                  |
-|-----------------------|---------------------|---------------------------------------|
-| Constructor and Method Overloading](constructorsAndMethodOverloading.md) | [TOC](../ReadMe.md) | |
+| Prev                                                                      | TOC                 | Next                     |
+|---------------------------------------------------------------------------|---------------------|--------------------------|
+| [Constructor and Method Overloading](constructorsAndMethodOverloading.md) | [TOC](../ReadMe.md) | [Coding Challenge](CodingChallenge01.md) |

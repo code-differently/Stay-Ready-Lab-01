@@ -14,6 +14,7 @@ Since this course requires prior coding experience, and precourse work in java, 
 7. [Constructor and Method Overloading](./docs/constructorsAndMethodOverloading.md)
 8. [Inheritance](./docs/inheritance.md) 
 
+
 ### New Topics:
 
 * Test Driven Development
@@ -22,6 +23,7 @@ Since this course requires prior coding experience, and precourse work in java, 
 * F.I.R.S.T.
 * Introduction to Git
 
+[Coding Challenge](./docs/CodingChallenge01.md)
 
 
 

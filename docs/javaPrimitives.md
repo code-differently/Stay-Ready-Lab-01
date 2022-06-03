@@ -15,7 +15,7 @@ There are eight primitive data types in Java:
 |boolean |	1 bit |	Stores true or false values |
 | char	 |2 bytes	| Stores a single character/letter or ASCII values |
 
-## Exercise 
+## Let's try it
 
 Complete [PrimativesExample.java](../src/main/java/com/codedifferently/primitives/PrimitivesExample.java)
 

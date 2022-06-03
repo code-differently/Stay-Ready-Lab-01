@@ -94,6 +94,7 @@ Logical operators are used to determine the logic between variables or values:
 | <code>&#124;&#124;</code>                                                                | Logical or	                                                                            | Returns true if one of the statements is true                              | x < 5 <code>&#124;&#124;</code> x < 4 |
 | !	| Logical not | Reverse the result, returns false if the result is true	| !(x < 5 && x < 10)                    |
 
+## Let's try it
 Complete [Operators.java](../src/main/java/com/codedifferently/operators/Operators.java)
 
 

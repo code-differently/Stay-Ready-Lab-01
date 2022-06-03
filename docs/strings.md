@@ -75,6 +75,8 @@ class Main {
 
 ```
 
+## Let's try it
+
 Complete [StringsExample.java](../src/main/java/com/codedifferently/strings/StringsExample.java)
 
 

@@ -60,6 +60,9 @@ while (i < 5) {
   i++;
 }
 ```
+## Let's try it
+
+Complete [Control.java](../src/main/java/com/codedifferently/control/Control.java)
 
 
 | Prev                  | TOC                 | Next               |

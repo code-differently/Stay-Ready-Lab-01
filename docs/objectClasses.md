@@ -194,6 +194,12 @@ We will be focusing on Class diagrams. Before you write any code to truly master
 | _ | Constructor |
 | < > | Interface |
 
+## Let's try it
+
+Complete [Task.java](../src/main/java/com/codedifferently/objectClasses/Task.java)
+Complete [TaskTest.java](../src/test/java/com/codedifferently/objectClasses/TaskTest.java)
+
+
 
 
 | Prev                  | TOC                 | Next                                   |
